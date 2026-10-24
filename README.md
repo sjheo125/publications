@@ -15,10 +15,7 @@ Clinical Project Lead · PhD in Statistics (Korea University) · MBA candidate (
 | 2026-04-23 | 한국제약의학회(KSPM) 2026 제1회 RWE Forum | Organizing / Hosting (기획·사회) | [약업신문 기사](https://www.yakup.com/news/index.html?mode=view&nid=326426) |
 | 2025-10-17 | 2025 Autumn Tox Round Table Workshop (서울아산병원) | Development of the Phase 1 First-In-Human Study Protocol — ENHERTU® Case Study | [Slides (PDF)](slides/2025-10-17_Tox-Round-Table_FIH-Protocol-Enhertu.pdf) |
 | 2025-09-18 | KSPM 2025 Medical Affairs Forum | Externally Controlled Trial — FDA Case Study | [Slides (PDF)](slides/2025-09-18_KSPM-MA-Forum_Externally-Controlled-Trial.pdf) |
-| 2025-06-13 | Tox Round Table (서울아산병원) | First-in-human Protocol Development | — |
-| 2025-04-11 | Tox Round Table (서울아산병원) | Navigating Safety Margins in First-in-human Studies | — |
-| 2024-11-05 | 식약처(MFDS) 2024 Joint Statistical Conference for Clinical Trials and Research (산관학 컨퍼런스) | Dose-escalation Designs in Oncology Phase 1 Clinical Trials — First-in-human Study | [Slides (PDF)](slides/2024-11-05_MFDS_Dose-escalation-Designs-in-Oncology-Phase1.pdf) |
-| 2024-07 | 2024 The Korean Statistical Society Annual Meeting (oral) | A comparative study of dose escalation designs in oncology phase 1 clinical trials (Heo SJ, Lee JW) | — |
+| 2024-11-05 | 2024 임상시험 및 연구를 위한 산학관 공동 통계 컨퍼런스 (2024 Joint Statistical Conference for Clinical Trials and Research) — 식품의약품안전평가원·한국임상개발연구회 기획 세션 | 항암제 1상 임상시험 용량 증량 디자인 (Dose-escalation Designs in Oncology Phase 1 Clinical Trials — First-in-human Study) | [Slides (PDF)](slides/2024-11-05_MFDS_Dose-escalation-Designs-in-Oncology-Phase1.pdf) |
 
 ## Posters & Abstracts · 학회 포스터·초록
 
@@ -26,9 +23,7 @@ Clinical Project Lead · PhD in Statistics (Korea University) · MBA candidate (
 |---|---|---|---|
 | 2024-09 | WCLC 2024, San Diego | EP.12E.01 OBX02-011, a Novel Oral ALK and EGFR Dual-target Tyrosine Kinase Inhibitor for the Treatment of Advanced NSCLC Patients — **Heo S** (first author), Lee S, Ha T, Baek M, Kim M, Jung K, Kim SE | [J Thorac Oncol 2024;19(10S)](https://doi.org/10.1016/j.jtho.2024.09.1233) |
 | 2022-03 | ESMO Targeted Anticancer Therapies 2022 | 44P A first-in-human, open-label, dose-escalation study to investigate the safety and tolerability of CHC2014, a TRK inhibitor, in adult patients with advanced solid tumors — Yun T, …, Heo S, …, Moon YW | [Ann Oncol 2022;33(S1)](https://doi.org/10.1016/j.annonc.2022.01.053) |
-| 2022-03 | 2022 Korean Society of Hematology International Conference (ICKSH) | The long-term efficacy and safety of eculizumab in patients with paroxysmal nocturnal hemoglobinuria; retrospective study on behalf of KSH aplastic anemia working party — Kim JS, …, Heo S, …, Lee JW | — |
 | 2021-09 | PAGE 29 (2021) | I-54 PK and PD modeling and simulation of GX-H9 in the adult patients with growth hormone deficiency — Pak KC, Heo MK, Heo SJ, Lim HS | [PAGE Abstract 9689](https://www.page-meeting.org/Abstracts/pk-and-pd-modeling-and-simulation-of-gx-h9-in-the-adult-patients-with-growth-hormone-deficiency-2/) |
-| 2020-11 | 11th American Conference on Pharmacometrics (ACoP11) | THU-047 PK and PD modeling and simulation of GX-H9 in the adult patients with growth hormone deficiency — Pak KC, Choi YJ, Heo SJ, Lim HS | — |
 | 2020-03 | ENDO 2020 (Endocrine Society 102nd Annual Meeting) | SAT-LB15 24-Month efficacy and safety of once weekly and every other week administration of GX-H9, hybrid Fc-fused long-acting human growth hormone: a phase 2 study in children with GHD — Malievskiy O, …, Heo SJ, …, Sung YC | [J Endocr Soc 2020;4(S1)](https://doi.org/10.1210/jendso/bvaa046.2162) |
 | 2018-09 | 57th ESPE Annual Meeting (2018) | RFC4.5 12-Month effects of once-weekly and twice-monthly administration of hybrid Fc-fused human growth hormone, GX-H9, in pediatric patients with GHD | [ESPE Abstracts 89 RFC4.5](https://abstracts.eurospe.org/hrp/0089/hrp0089rfc4.5) |
 
