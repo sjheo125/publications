@@ -37,7 +37,7 @@ Clinical Project Lead · PhD in Statistics (Korea University) · MBA candidate (
 - Heo SJ, Lee JW. **A comparison of dose-escalation designs with late-onset toxicity in oncology phase 1 clinical trials.** *Pharmaceutical Statistics* (under revision). Code: [GitHub](https://github.com/sjheo125/Dose-escalation-designs-with-late-onset-toxicity-in-oncology-phase-1-clinical-trials)
 - 허수진. **항암제 1상 임상시험에서 후발독성을 고려한 용량 증량 디자인 연구.** 고려대학교 대학원 통계학과 박사학위논문, 2024. [RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=4166ae9c29d2d960ffe0bdc3ef48d419)
 - 허수진, 이재원. **항암제 1상 임상시험의 용량 증량 디자인에 대한 비교 연구** (A comparative study of dose escalation designs in oncology phase 1 clinical trials). 한국데이터정보과학회지 2023;34(4):587–606. [doi:10.7465/jkdi.2023.34.4.587](https://doi.org/10.7465/jkdi.2023.34.4.587)
-- Ku CR, Brue T, Schilbach K, …, Heo SJ, …, Lee EJ. **Long-acting Fc-fusion rhGH (GX-H9) shows potential for up to twice-monthly administration in GH-deficient adults.** *Eur J Endocrinol* 2018;179(3):169–179. [doi:10.1530/EJE-18-0185](https://doi.org/10.1530/EJE-18-0185)
+- Ku CR, Brue T, Schilbach K, …, Heo SJ, …, Lee EJ. **Long-acting Fc-fusion rhGH (GX-H9) shows potential for up to twice-monthly administration in GH-deficient adults.** *Eur J Endocrinol* 2018;179(3):169–179. [doi:10.1530/EJE-18-0185](https://academic.oup.com/ejendo/article-abstract/179/3/169/6655416)
 
 ## Patents · 특허
 
