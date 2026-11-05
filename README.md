@@ -1,6 +1,6 @@
 # SuJin Heo, PhD — Presentations & Publications
 
-Clinical Project Lead · PhD in Statistics (Korea University) · MBA candidate (Yonsei University)
+Project Leader, Real-World Operations (C&R Research) · PhD in Statistics (Korea University) · MBA candidate (Yonsei University)
 15+ years in clinical development across oncology, rare diseases and vaccines — from Phase 1 first-in-human design to post-marketing surveillance and real-world evidence.
 
 [LinkedIn](https://www.linkedin.com/in/sujinheo/) · [GitHub](https://github.com/sjheo125)
