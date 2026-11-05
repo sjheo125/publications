@@ -13,6 +13,7 @@ Project Leader, Real-World Operations (C&R Research) · PhD in Statistics (Korea
 | Date | Event | Title | Material |
 |---|---|---|---|
 | 2026-04-23 | 한국제약의학회(KSPM) 2026 제1회 RWE Forum | Organizing / Hosting (기획·사회) | [약업신문 기사](https://www.yakup.com/news/index.html?mode=view&nid=326426) |
+| 2025-10-23 | KSPM RWE SIG (스터디 모임) | Target Trial Emulation — ECT update (lazertinib real-world external control, PSM·IPTW), TARGET Statement, case study (degarelix vs leuprolide, PRONOUNCE emulation) | [Slides (PDF)](slides/2025-10-23_KSPM-RWE-SIG_Target-Trial-Emulation.pdf) |
 | 2025-10-17 | 2025 Autumn Tox Round Table Workshop (서울아산병원) | Development of the Phase 1 First-In-Human Study Protocol — ENHERTU® Case Study | [Slides (PDF)](slides/2025-10-17_Tox-Round-Table_FIH-Protocol-Enhertu.pdf) |
 | 2025-09-18 | KSPM 2025 Medical Affairs Forum | Externally Controlled Trial — FDA Case Study | [Slides (PDF)](slides/2025-09-18_KSPM-MA-Forum_Externally-Controlled-Trial.pdf) |
 | 2024-11-05 | 2024 임상시험 및 연구를 위한 산학관 공동 통계 컨퍼런스 (2024 Joint Statistical Conference for Clinical Trials and Research) — 식품의약품안전평가원·한국임상개발연구회 기획 세션 | 항암제 1상 임상시험 용량 증량 디자인 (Dose-escalation Designs in Oncology Phase 1 Clinical Trials — First-in-human Study) | [Slides (PDF)](slides/2024-11-05_MFDS_Dose-escalation-Designs-in-Oncology-Phase1.pdf) |
